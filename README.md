@@ -1,1 +1,12 @@
 # pytorchfire
+
+Currently reconstructing a research paper based on stochastic fire modeling to better predict wildfires. The model uses gradient descent amongst other things to accurately predict where the wildfire will spread. 
+
+What's included:
+- custom hyperparameters
+- training
+- metrics (before and after calibration)
+- more metrics on metrics
+
+more info soon.
+

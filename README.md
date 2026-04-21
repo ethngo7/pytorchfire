@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6-orange)
 ![GPU](https://img.shields.io/badge/GPU-CUDA%20T4-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 

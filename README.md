@@ -1,8 +1,7 @@
-# 🔥 Wildfire Prediction & Simulation — PyTorchFire Implementation
+# 🪾 Wildfire Prediction & Simulation — PyTorchFire Implementation
 
 > Built during a Machine Learning Internship at **Interlinked** (Summer 2025) · Berkeley, CA
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ethngo7/pytorchfire/blob/main/calibration.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6-orange)
 ![GPU](https://img.shields.io/badge/GPU-CUDA%20T4-green)
@@ -11,7 +10,7 @@
 
 ## Overview
 
-This project implements and extends a **GPU-accelerated wildfire simulator** based on Differentiable Cellular Automata (DCA), grounded in the research paper:
+This project implements and extends a **GPU-accelerated wildfire simulator**, grounded in the research paper:
 
 > Xia, Z. & Cheng, S. (2025). *PyTorchFire: A GPU-Accelerated Wildfire Simulator with Differentiable Cellular Automata.* arXiv:2502.18738
 

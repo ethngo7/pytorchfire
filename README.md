@@ -6,6 +6,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.6-orange)
 ![GPU](https://img.shields.io/badge/GPU-CUDA%20T4-green)
 
+## 🚀 Start here
+
+Go to `notebooks/` → open `calibration.ipynb` to see the full pipeline.
+
 ---
 
 ## Overview

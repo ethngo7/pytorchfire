@@ -26,13 +26,13 @@ The core idea: rather than training a supervised ML model that overfits to a spe
 
 ## What's in this repo
 
+```
 pytorchfire/
 ├── notebooks/
 │   ├── calibration.ipynb          # Parameter calibration pipeline (main demo)
 │   └── wildfire_ROS_models.ipynb  # Rate of Spread (ROS) physics model exploration
 │
 ├── wildfire_ROS_models/           # ROS model package
-├── PyFireStation/                 # Geospatial data ingestion tools
 ├── scripts/
 │   ├── train_nn.py                # Neural network training pipeline (PyTorch)
 │   └── sobol_sensitivity_analysis.py  # Sobol sensitivity analysis on model params
@@ -41,6 +41,7 @@ pytorchfire/
 ├── docs/
 ├── requirements.txt
 └── setup.py
+```
 
 ---
 
